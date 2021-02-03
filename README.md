@@ -13,7 +13,7 @@ dotnet build
 dotnet run
 ```
 
-With the first command we will be sure that all packges are restored. And then we run application and to see it open on a browser (https://localhost:5001/swagger/index.chtml)
+With the first command we will be sure that all packges are restored. And then we run application with dotnet run, to see it open on a browser (https://localhost:5001/swagger/index.chtml)
 ## Front-End Development Workflow
 To run the frontend app open source code and run the following commands:
 ```
