@@ -7,13 +7,14 @@ Tech Stack:
 This project demonstrate CRUD operations using .net core and aurelia framework.
 
 ## Back-End Development Workflow
-To run .net5 you should have installed .net core sdk 5. Afterwards, open web API source code and type cmd, run the following commands:
+To run .net5 you should have installed .net core sdk 5. Afterwards, open web API source code and run the following commands:
 ```
 dotnet build
 dotnet run
 ```
 
-With the first command we will be sure that all packges are restored. And then we run application with dotnet run, to see it open on a browser (https://localhost:5001/swagger/index.chtml)
+With the first command we will be sure that all packges are restored. And then just run application with dotnet run, to see it open on a browser (https://localhost:5001/swagger/index.chtml)
+
 ## Front-End Development Workflow
 To run the frontend app open source code and run the following commands:
 ```
